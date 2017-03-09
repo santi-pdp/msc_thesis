@@ -1,6 +1,6 @@
 # MSc Thesis: Deep Learning Applied to Speech Synthesis
 
-Santiago Pascual MSc thesis on applying Deep Learning for speech synthesis.
+Santiago Pascual's MSc thesis on applying Deep Learning for speech synthesis.
 
 ## Contents:
 
@@ -8,3 +8,7 @@ Santiago Pascual MSc thesis on applying Deep Learning for speech synthesis.
 * Intro to Deep Learning
 * Two stage TTS with RNN-LSTM and post-filtering
 * Multiple Output Acoustic Mapping
+
+### Author:
+
+Santiago Pascual [@santty128](https://twitter.com/santty128)
